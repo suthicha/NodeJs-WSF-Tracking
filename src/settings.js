@@ -15,4 +15,4 @@ exports.db2Config = {
 };
 
 exports.webPort = 5000;
-exports.secert = "m88tTfYxzC";
+exports.secert = "fnfegd[KDJFJufsfnj";
